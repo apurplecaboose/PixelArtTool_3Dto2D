@@ -1,5 +1,5 @@
 # PixelArtTool_3Dto2D
- Transform a 3d animated model to a 2d sprite sheet with toon lighting.
+ Transform a 3d animated model to a 2d sprite sheet with toon lighting. Edited version of source Github repo to make process easier to use.
 
 ## How to use:
 
